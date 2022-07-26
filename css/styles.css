@@ -610,12 +610,10 @@ body {
 
 .footer-parts {
     display: flex;
-    justify-content: o auto;
+    align-items: baseline;
 }
 
 .container-footer {
     margin-left: 70px;
-    width: 1200px;
-    margin-top: 12px;
 }
 
